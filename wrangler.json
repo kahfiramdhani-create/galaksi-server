@@ -1,5 +1,5 @@
 {
-  "name": "galaksi-api",
+  "name": "galaksi-server",
   "main": "src/index.js",
   "compatibility_date": "2026-10-06",
   "d1_databases": [
